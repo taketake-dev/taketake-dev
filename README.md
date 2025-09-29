@@ -10,13 +10,25 @@ Pythonを用いた**バックエンドエンジニア志望**です。システ�
 
 ### 🚀 スキルスタック (Core Technologies)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,django,aws,docker,postgresql,git,vscode" />
+</p>
+
 | 分野 | 技術キーワード |
 | :--- | :--- |
-| **バックエンド** | **Python** (Django/Flask), SQL (PostgreSQL), RESTful API |
-| **クラウド/インフラ** | **AWS/GCP** (デプロイ経験あり), **Docker** |
-| **フロントエンド** | HTML/CSS, JavaScript (基礎), Vue.js/React (学習中) |
-| **ツール/開発環境** | Git/GitHub, VS Code, Linux (CUI操作) |
+| **バックエンド** | **Python** (Django/Flask), SQL (PostgreSQL)(勉強中)|
+| **クラウド/インフラ** | **AWS/GCP** (勉強中), **Docker** (勉強中)|
+| **フロントエンド** | HTML/CSS, JavaScript|
+| **ツール/開発環境** | Git/GitHub, VS Code|
 | **学習言語** | C, C++, C#, Java, JavaScript, R |
+
+---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taketake-dev&show_icons=true&theme=dark" alt="taketake-dev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taketake-dev&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
