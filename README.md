@@ -1,5 +1,7 @@
 # 💻 taketake-dev | TakeharaEita
 
+🌐 [ポートフォリオ](https://taketake-dev.com)
+
 ### 📌 エンジニアリングの価値観
 
 Pythonを主に使っています。システムの**堅牢性**と**美しいコード**を追求し、日々技術の探求をしています。
